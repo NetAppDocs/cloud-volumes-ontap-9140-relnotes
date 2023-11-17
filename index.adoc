@@ -1,11 +1,11 @@
 ---
-layout: landing-page
+layout: astra
 sidebar: sidebar
 permalink: index.html
-# lead: Use only if indexpage.lead is not present in _index.yml
-summary: "summary, used for search results"
+summary: These release notes describe new features, limitations, and known issues for Cloud Volumes ONTAP 9.14.0.
 ---
-= replace with repository name
+
+= Cloud Volumes ONTAP 9.14.0 Release Notes
 :hardbreaks:
 :nofooter:
 :icons: font
