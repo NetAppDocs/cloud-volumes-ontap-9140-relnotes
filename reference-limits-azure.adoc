@@ -371,7 +371,7 @@ Storage VMs that you configure for disaster recovery (DR) don't require an add-o
 | Parameter
 | Limit
 
-.2+| *Files*	| Maximum size ^2^ | 128 TiB
+.2+| *Files*	| Maximum size ^2^ | 128 TB
 | Maximum per volume |	Volume size dependent, up to 2 billion
 | *FlexClone volumes*	| Hierarchical clone depth ^1^ | 499
 .3+| *FlexVol volumes*	| Maximum per node |	500
