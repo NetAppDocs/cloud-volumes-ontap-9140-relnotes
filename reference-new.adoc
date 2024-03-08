@@ -22,8 +22,8 @@ The 9.14.0 P1 patch is now available for Cloud Volumes ONTAP for all cloud provi
 
 We recommend that going forward, you upgrade Cloud Volumes ONTAP to 9.14.1. 
 
-https://docs.netapp.com/us-en/cloud-volumes-ontap-9141-relnotes/index.html[Cloud Volumes ONTAP 9.14.1 Release Notes]
-
+https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html[Cloud Volumes ONTAP 9.14.1 Release Notes]
+// change link to 9141 if 9150 releases first.
 
 == 9.14.0 P1 (10 November 2023)
 The 9.14.0 P1 patch is now available for Cloud Volumes ONTAP for all cloud providers if you have a Connector running version 3.9.27 or later. BlueXP will prompt you to upgrade your existing systems to this patch release.
