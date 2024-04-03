@@ -20,6 +20,8 @@ Additional features and enhancements are also introduced in the latest versions 
 == 9.14.0 P2 (1 April 2024)
 The 9.14.0 P2 patch is now available for Cloud Volumes ONTAP for all cloud providers. This patch is only available for manual upgrade. See https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-cloud.html#upgrade-from-bluexp-notifications[Upgrade from an image available at a URL]. 
 
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.14.0P2[View the list of bugs fixed in the P2 patch^] (NetApp Support Site login required).
+
 This will be the last patch for this release. We recommend that going forward, you upgrade Cloud Volumes ONTAP 9.14.0 to 9.14.1.
 
 https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html[Cloud Volumes ONTAP 9.14.1 Release Notes^]
